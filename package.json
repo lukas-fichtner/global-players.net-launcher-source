@@ -1,9 +1,9 @@
 {
-  "name": "Taunuslife",
-  "version": "1.0.1",
-  "description": "Taunuslife Launcher",
-  "homepage": "https://www.taunuslife.de",
-  "author": "taunuslife",
+  "name": "Global-Players",
+  "version": "1.0.0",
+  "description": "Global-Players Launcher",
+  "homepage": "https://global-players.net",
+  "author": "XedonDEV",
   "main": "main.js",
   "readme": "README.md",
   "scripts": {
@@ -18,12 +18,12 @@
     ]
   },
   "build": {
-    "appId": "taunuslife.de",
-    "mac.category": "launcher.application",
+    "appId": "global-players",
+    "mac.category": "gp.application",
     "win": {
-      "title": "Taunuslife Launcher",
-      "iconUrl": "https://kaibu.me/taunuslife.ico",
-      "remoteReleases": "https://kaibu.me/taunuslife-launcher",
+      "title": "Global-Players",
+      "iconUrl": "https://webstorage1.gaming-provider.com/Projekte/global-players/launcher.ico",
+      "remoteReleases": "https://webstorage1.gaming-provider.com/Projekte/global-players/launcher-update",
       "target": "squirrel"
     },
     "squirrelWindows": {
