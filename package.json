@@ -1,6 +1,6 @@
 {
   "name": "Global-Players",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Global-Players Launcher",
   "homepage": "https://global-players.net",
   "author": "XedonDEV",
@@ -18,7 +18,7 @@
     ]
   },
   "build": {
-    "appId": "global-players",
+    "appId": "Global-Players",
     "mac.category": "gp.application",
     "win": {
       "title": "Global-Players",
